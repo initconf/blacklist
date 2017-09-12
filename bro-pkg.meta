@@ -1,0 +1,6 @@
+[package]
+description=package to manage blacklisted IP address ysing bro 
+script_dir = scripts
+version = 0.1 
+tags = blacklist 
+#test_command = ( cd tests && btest -d )
